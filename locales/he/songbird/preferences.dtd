@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "אפשרויות">
+<!ENTITY prefWindow.titleGNOME "הגדרות &brandShortName;">
+<!ENTITY paneGeneral.title "ראשי">
+<!ENTITY paneTabs.title "כרטיסיות">
+<!ENTITY paneContent.title "תוכן">
+<!ENTITY paneApplications.title "יישומים">
+<!ENTITY panePrivacy.title "פרטיות">
+<!ENTITY paneSecurity.title "אבטחה">
+<!ENTITY paneAdvanced.title "מתקדם">

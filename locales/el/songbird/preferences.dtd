@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Επιλογές">
+<!ENTITY prefWindow.titleGNOME "Προτιμήσεις &brandShortName;">
+<!ENTITY paneGeneral.title "Κύρια">
+<!ENTITY paneTabs.title "Καρτέλες">
+<!ENTITY paneContent.title "Περιεχόμενο">
+<!ENTITY paneApplications.title "Εφαρμογές">
+<!ENTITY panePrivacy.title "Ιδιωτικότητα">
+<!ENTITY paneSecurity.title "Ασφάλεια">
+<!ENTITY paneAdvanced.title "Προχωρημένες">

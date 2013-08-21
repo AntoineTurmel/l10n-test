@@ -1,0 +1,9 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "خصائص">
+<!ENTITY paneGeneral.title "الرئيسيه">
+<!ENTITY paneTabs.title "تبويبات">
+<!ENTITY paneContent.title "المحتوى">
+<!ENTITY paneApplications.title "تطبيقات">
+<!ENTITY panePrivacy.title "الخصوصية">
+<!ENTITY paneSecurity.title "الحماية">
+<!ENTITY paneAdvanced.title "خصائص متقدمة">

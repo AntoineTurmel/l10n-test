@@ -1,0 +1,5 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "প্রিয় নির্ধারণমানসমূহ">
+<!ENTITY paneGeneral.title "প্রধান">
+<!ENTITY paneContent.title "বিষয়বস্তু">
+<!ENTITY paneSecurity.title "নিরাপত্তা">

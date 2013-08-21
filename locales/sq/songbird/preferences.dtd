@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Alternativa">
+<!ENTITY prefWindow.titleGNOME "Preferencat e &brandShortName;">
+<!ENTITY paneGeneral.title "Kryesore">
+<!ENTITY paneTabs.title "Skedat">
+<!ENTITY paneContent.title "Përmbajtja">
+<!ENTITY paneApplications.title "Programe">
+<!ENTITY panePrivacy.title "Privacy">
+<!ENTITY paneSecurity.title "Siguria">
+<!ENTITY paneAdvanced.title "Të Përparuara">

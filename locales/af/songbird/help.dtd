@@ -1,0 +1,90 @@
+<!-- localizations for in-app help -->
+<!ENTITY help.keyboard.title "&brandShortName; Sleutelbord-kortpaaie">
+<!ENTITY help.keyboard.subtitle "Sleutelbord-kortpaaie">
+<!ENTITY help.platform.windows "Windows">
+<!ENTITY help.platform.macosx "Mac">
+<!ENTITY help.platform.linux "Linux">
+<!ENTITY help.keyboard.heading.command "Opdrag">
+<!ENTITY help.keyboard.heading.shortcut "Kortpad">
+<!ENTITY help.keyboard.section.playback "Speelkontroles">
+<!ENTITY help.keyboard.section.browser "Blaaier">
+<!ENTITY help.keyboard.section.search "Soek">
+<!ENTITY help.keyboard.section.video "Video">
+<!ENTITY help.keyboard.key.left "Links Pyltjie">
+<!ENTITY help.keyboard.key.right "Regs Pyltjie">
+<!ENTITY help.keyboard.key.up "Op Pyltjie">
+<!ENTITY help.keyboard.key.down "Af Pyltjie">
+<!ENTITY help.keyboard.key.pgup "Page Up">
+<!ENTITY help.keyboard.key.pgdn "Page Down">
+<!ENTITY help.keyboard.key.home "Home">
+<!ENTITY help.keyboard.key.end "End">
+<!ENTITY help.keyboard.key.tab "Tab">
+<!ENTITY help.keyboard.key.escape "Esc">
+<!ENTITY help.keyboard.key.f1 "F1">
+<!ENTITY help.keyboard.key.f2 "F2">
+<!ENTITY help.keyboard.key.f3 "F3">
+<!ENTITY help.keyboard.key.f4 "F4">
+<!ENTITY help.keyboard.key.f5 "F5">
+<!ENTITY help.keyboard.key.f6 "F6">
+<!ENTITY help.keyboard.key.f7 "F7">
+<!ENTITY help.keyboard.key.f8 "F8">
+<!ENTITY help.keyboard.key.f9 "F9">
+<!ENTITY help.keyboard.key.f10 "F10">
+<!ENTITY help.keyboard.key.f11 "F11">
+<!ENTITY help.keyboard.key.f12 "F12">
+<!ENTITY help.keyboard.key.f13 "F13">
+<!ENTITY help.keyboard.key.f14 "F14">
+<!ENTITY help.keyboard.key.f15 "F15">
+<!ENTITY help.keyboard.mouse.click.primary "Kliek">
+<!ENTITY help.keyboard.mouse.click.middle "Middel-Kliek">
+<!ENTITY help.keyboard.key.meta "Win">
+<!ENTITY help.keyboard.key.ctrl "Ctrl">
+<!ENTITY help.keyboard.key.cmd "Cmd">
+<!ENTITY help.keyboard.key.alt "Alt">
+<!ENTITY help.keyboard.key.opt "Opt">
+<!ENTITY help.keyboard.key.shift "Shift">
+<!ENTITY help.keyboard.key.delete "Delete">
+<!-- keyboard shortcuts: command names -->
+<!ENTITY help.keyboard.name.playcontrol.pause "Speel/Pousser die Geselekteerde Media-item">
+<!ENTITY help.keyboard.name.playcontrol.prev "Speel die Vorige Media-item in &apos;n Lys">
+<!ENTITY help.keyboard.name.playcontrol.next "Speel die Volgende Media-item in &apos;n Lys">
+<!ENTITY help.keyboard.name.volume.down "Verminder Volume">
+<!ENTITY help.keyboard.name.volume.up "Vermeerder Volume">
+<!ENTITY help.keyboard.name.volume.max "Maks Volume">
+<!ENTITY help.keyboard.name.jumpto "Spring Na Venster">
+<!ENTITY help.keyboard.name.new.playlist "Nuwe Speellys">
+<!ENTITY help.keyboard.name.new.smartplaylist "Nuwe SlimSpeellys">
+<!ENTITY help.keyboard.name.import "Voer Media In">
+<!ENTITY help.keyboard.name.edit.undo "Ontdoen">
+<!ENTITY help.keyboard.name.edit.redo "Doen weer">
+<!ENTITY help.keyboard.name.edit.selectall "Selekteer Alles">
+<!ENTITY help.keyboard.name.edit.cut "Sny">
+<!ENTITY help.keyboard.name.edit.copy "Kopiëer">
+<!ENTITY help.keyboard.name.edit.paste "Plak">
+<!ENTITY help.keyboard.name.edit.delete "Skrap">
+<!ENTITY help.keyboard.name.browser.back "Terug">
+<!ENTITY help.keyboard.name.browser.forward "Voorentoe">
+<!ENTITY help.keyboard.name.browser.reload "Herlaai">
+<!ENTITY help.keyboard.name.browser.stop "Hou op Laai">
+<!ENTITY help.keyboard.name.open.file "Maak Lêer Oop">
+<!ENTITY help.keyboard.name.save.link "Stoor Skakel">
+<!ENTITY help.keyboard.name.file.print "Druk">
+<!ENTITY help.keyboard.name.view.source "Beskou Bron">
+<!ENTITY help.keyboard.name.view.zoomin "Zoem In">
+<!ENTITY help.keyboard.name.view.zoomout "Zoem Uit">
+<!ENTITY help.keyboard.name.view.zoomreset "">
+<!ENTITY help.keyboard.name.subscribe "Teken in">
+<!ENTITY help.keyboard.name.page.top "Beweeg na Bokant van Bladsy">
+<!ENTITY help.keyboard.name.page.bottom "Beweeg na Onderkant van Bladsy">
+<!ENTITY help.keyboard.name.view.fullscreen "Volskerm">
+<!ENTITY help.keyboard.name.mac.hide "Steek Venster Weg">
+<!ENTITY help.keyboard.name.mac.hideothers "Steek Ander Programmer Weg">
+<!ENTITY help.keyboard.name.downloads "Aflaai-sessies">
+<!ENTITY help.keyboard.name.find "Soek">
+<!ENTITY help.keyboard.name.find.again "Soek Weer">
+<!ENTITY help.keyboard.name.find.text "Vind Soos U Teks Insleutel">
+<!ENTITY help.keyboard.name.find.link "Vind soos U Skakel Insleutel">
+<!ENTITY help.keyboard.name.quit "Maak toe">
+<!ENTITY help.keyboard.name.preferences "">
+<!ENTITY help.keyboard.name.help "Hulponderwerpe">
+<!ENTITY help.keyboard.name.sanitize "Wis &apos;n Private Data">

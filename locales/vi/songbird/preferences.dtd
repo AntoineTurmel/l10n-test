@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Tùy chỉnh">
+<!ENTITY prefWindow.titleGNOME "Tùy chọn &brandShortName;">
+<!ENTITY paneGeneral.title "Chính">
+<!ENTITY paneTabs.title "Tab">
+<!ENTITY paneContent.title "Nội dung">
+<!ENTITY paneApplications.title "Ứng dụng">
+<!ENTITY panePrivacy.title "Riêng tư">
+<!ENTITY paneSecurity.title "Bảo mật">
+<!ENTITY paneAdvanced.title "Nâng cao">

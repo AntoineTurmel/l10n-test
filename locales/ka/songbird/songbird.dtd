@@ -1,0 +1,472 @@
+<!ENTITY window.ok "ყველაფერი რიგზეა">
+<!ENTITY window.cancel "გაუქმება">
+<!ENTITY window.apply "მიკუთვნება">
+<!ENTITY window.browse "დათვალიერება…">
+<!ENTITY window.save "შენახვა">
+<!ENTITY window.yes "დიახ">
+<!ENTITY window.no "არა">
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit "დახურვა &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
+<!ENTITY menu.mac.preferences "უპირატესობის მიცემა">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY menu.mac.preferences.modifiers "accel">
+<!ENTITY menu.mac.services "სერვისები">
+<!ENTITY menu.mac.hide "დამალვა &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.hide.modifiers "accel">
+<!ENTITY menu.mac.hideothers "სხვების დამალვა">
+<!ENTITY menu.mac.hideothers.key "H">
+<!ENTITY menu.mac.hideothers.modifiers "accel,alt">
+<!ENTITY menu.mac.showall "ყველას ჩვენება">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "ფაილი">
+<!ENTITY menu.file.new "ახალი პლეილისტი">
+<!ENTITY menu.file.smart "ახალი ჭკვიანი ფლაილისტი">
+<!ENTITY menu.file.remote "ახალი ხელმოწერა">
+<!ENTITY menu.file.podcast "ახალი Podcast">
+<!ENTITY menu.file.open "ფაილის გახსნა">
+<!ENTITY menu.file.url "ადგილმდებარეობის გახსნა">
+<!ENTITY menu.file.playlist "პლაილისტის იმპორტირება">
+<!ENTITY menu.file.library "ბიბლიოთეკის იმპორტირება">
+<!ENTITY menu.file.newtab "ახალი თაბი">
+<!ENTITY menu.file.closetab "თაბის დახურვა">
+<!ENTITY menu.file.metadata "დამატებითი იმფორმაციის ნახვა">
+<!ENTITY menu.file.scan "დამატებითი იმფორმაციის იმპორტირება">
+<!ENTITY menu.file.exit "გამოსვლა">
+<!ENTITY menu.edit "რედაქტირება">
+<!ENTITY menu.edit.undo "შეცვლილის უკან დაბრუნება">
+<!ENTITY menu.edit.redo "წინად დაბრუნება">
+<!ENTITY menu.edit.cut "ამოჭრა">
+<!ENTITY menu.edit.copy "დაკოპირება">
+<!ENTITY menu.edit.paste "ჩასმა">
+<!ENTITY menu.edit.delete "წაშლა">
+<!ENTITY menu.edit.selall "ყველაფრის არჩევა">
+<!ENTITY menu.edit.find "პოვნა">
+<!ENTITY menu.edit.findagain "ახლიდან პოვნა">
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences "უპირატესობის მიცემა">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.controls "მართვის პანელი">
+<!ENTITY menu.control.play "დაკვრა">
+<!ENTITY menu.control.pause "პაუზა">
+<!ENTITY menu.control.next "შემდეგი სიმღერა">
+<!ENTITY menu.control.prev "წინა სიმღერა">
+<!ENTITY menu.control.shuf "არეულად დაკვრა">
+<!ENTITY menu.control.repa "ყველას გამეორება">
+<!ENTITY menu.control.rep1 "იმის გამეორება">
+<!ENTITY menu.control.repx "არაფრის გამეორება">
+<!ENTITY menu.control.jumpto "გადავიდეს">
+<!ENTITY menu.control.play.button "დაკვრა">
+<!ENTITY menu.control.pause.button "პაუზა">
+<!ENTITY menu.control.stop.button "შეჩერება">
+<!ENTITY displaypane.default.link.pre "">
+<!ENTITY displaypane.name.sidebar "მარჯვენა ბარი">
+<!ENTITY servicepane.title.label "სერვისი პანელი">
+<!ENTITY menu.tools "ხელსაწყოები">
+<!ENTITY menu.tools.getartwork "ალბომის სურათის შოვნა">
+<!ENTITY menu.tools.exportmedia "ბიბლიოთეკის ცვლილებების ექსპორტირება">
+<!ENTITY menu.help "დახმარება">
+<!ENTITY menu.help.bugz "პრობლემის შეტყობინება">
+<!ENTITY menu.help.topics "დახმარების სათაურები">
+<!ENTITY menu.help.keyboard "კლავიატურა და მალსახმობი">
+<!ENTITY menu.help.about "აღწერილობა &brandShortName; ბრანდის მოკლე სახელი">
+<!ENTITY menu.equalizer "იკვალაზერი">
+<!ENTITY menu.preferences "პარამეტრები">
+<!ENTITY menu.extensions "გაფართოებები">
+<!ENTITY menu.clearprivatedata "პირადი იმფორმაციის წაშლა">
+<!ENTITY menu.errorconsole "შეცდომების კონსოლი">
+<!ENTITY menu.downloadmgr "ჩამოტვირთული ფაილები">
+<!ENTITY menu.switchplayercontrols "დამკრავის მართვა">
+<!ENTITY menu.controllerontop "მაღლა ჩვენება">
+<!ENTITY menu.controlleronbottom "დაბლა ჩვენება">
+<!ENTITY menu.fullscreen "მთლიანი ეკრანი">
+<!ENTITY menu.videotofront "ვიდეოები წინ">
+<!ENTITY device.dialog.wait_for_completion.quit "გამოსვლა">
+<!ENTITY tooltip.exit "გასვლა">
+<!ENTITY tooltip.close "დახურვა">
+<!ENTITY tooltip.hide "დამალვა">
+<!ENTITY tooltip.fullscreen "მთლიანი ეკრანი">
+<!ENTITY tooltip.control.back "პირადი სიმღერა">
+<!ENTITY tooltip.control.play "დაკვრა">
+<!ENTITY tooltip.control.pause "დაპაუზება">
+<!ENTITY tooltip.control.resume "გაგრძელება">
+<!ENTITY tooltip.control.stop "შეჩერება">
+<!ENTITY tooltip.control.fwd "შემდეგი სიმღერა">
+<!ENTITY tooltip.control.mute "ხმის გათიშვა">
+<!ENTITY tooltip.control.curtrack "პოვნა მიმდინარე სიმღერა">
+<!ENTITY tooltip.search "ძიება">
+<!ENTITY tooltip.browser.home "სახლი">
+<!ENTITY tooltip.browser.refresh "განახლება">
+<!ENTITY tooltip.servicepane.newnode "ახალი პლეილისტი">
+<!ENTITY smart.window "ჭკვიანი ფლაილისტი">
+<!ENTITY smart.any "რომელიმე">
+<!ENTITY smart.all "ყველა">
+<!ENTITY smart.random "შემთხვევითი">
+<!ENTITY smart.album "ალბომი">
+<!ENTITY smart.artist "ხელოვანი">
+<!ENTITY smart.genre "ჟანრი">
+<!ENTITY smart.title "სათაური">
+<!ENTITY smart.low_rating "უმდაბლესი რეიტინგი">
+<!ENTITY smart.minutes "წუთი">
+<!ENTITY smart.hours "საათი">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "საგანი">
+<!ENTITY smart.to "ში">
+<!ENTITY smart.autoupdate "აუტომატური განახლება">
+<!ENTITY smart.playlistcondition.library "ბიბლიოთეკა">
+<!ENTITY smart.contenttypecondition.video "ვიდეო">
+<!ENTITY smart.contenttypecondition.audio "მუსიკა">
+<!ENTITY open_url.title "ურლის გახსნა">
+<!ENTITY subscribe.url "ურლი">
+<!ENTITY subscribe.minutes "წუთი">
+<!ENTITY subscribe.hours "საათი">
+<!ENTITY subscribe.days "დღე(ები)">
+<!ENTITY subscribe.destinationfolder "აირჩიეთ ფოლდერი:">
+<!ENTITY feed.subscribe.label "ხელმოწერა">
+<!ENTITY feed.subscribe.close "დახურვა">
+<!ENTITY podcast.creation_dialog.url.heading "ურლი">
+<!ENTITY watchfolder.title "იხილეთ პაპკა">
+<!ENTITY locale.language "ენა">
+<!ENTITY menu.view "ჩვენება">
+<!ENTITY about.version "ვერსია">
+<!ENTITY about.buttons.credits "მონაწილეთა სია">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.classical "კლასიკა">
+<!ENTITY setupprogress.pleasewait "გთხოვთ მოიცადეთ">
+<!ENTITY setupprogress.cancel "გაუქმება">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.smart.accesskey "S">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.podcast.accesskey "P">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.metadata.accesskey "V">
+<!ENTITY menu.file.library.accesskey "Y">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.errorconsole.accesskey "C">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "ფაილების ჩვენება">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.tools.reveal.modifiers "accel,shift">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.bugz.accesskey "B">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
+<!-- Track Editor (Metadata Editor) -->
+<!ENTITY trackeditor.title "მეტადატის რედაქტორი">
+<!ENTITY trackeditor.tab.summary.title "შინაარსი">
+<!ENTITY trackeditor.tab.edit.title "თვისებები">
+<!ENTITY trackeditor.tab.lyrics.title "სიმღერის ტექსტი">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title "ეტიკეტის მიკვრა">
+<!ENTITY trackeditor.addtag.tag "ეტიკეტის">
+<!ENTITY jumptofile.title "გადავიდეს">
+<!ENTITY jumptofile.search "ძიება:">
+<!ENTITY hotkeys.remove "წაშლა">
+<!ENTITY rapi.prefpane.title "ვებ ინტეგრაცია">
+<!ENTITY rapi.prefpane.access.caption "საიტის ნებართვები">
+<!ENTITY rapi.prefpane.access.text "You can allow websites to integrate with &brandShortName; to create a tighter coupling between the web and your media. Please configure &brandShortName; to allow or block websites usage of the following points of integration.">
+<!ENTITY rapi.whitelist.label "გამონაკლისები..">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "მოდულები">
+<!ENTITY umsd.prefpane "USB">
+<!ENTITY umsd.no_devices_present "არ USB მასობრივი ინფორმაციის შემნახავი მოწყობილობები უკავშირდება.">
+<!ENTITY umsd.music.tab "მუსიკა">
+<!ENTITY umsd.music.music_files_group "მუსიკალური ფაილები">
+<!ENTITY umsd.music.music_ext_desc "ასლი მუსიკა ფაილი შემდეგ გაგრძელება, რათა ხელსაწყო:">
+<!ENTITY umsd.video.tab "ვიდეო">
+<!ENTITY umsd.video.video_files_group "ვიდეო ფაილები">
+<!ENTITY device.error.dialog.link "შეცდომის დეტალების ხილვა">
+<!ENTITY restartbox.restartnow "გადატვირთვა">
+<!ENTITY restartbox.restartonplaybackend "გადატვირთეთ წლის დასასრული აღწარმოება">
+<!ENTITY restartbox.restartlater "მოგვიანებით გადატვირთვა">
+<!ENTITY setupprogress.installingextensions "მოდულების ინსტალაცია">
+<!ENTITY jobprogress.details "დეტალები">
+<!ENTITY menu.updateCmd.label "განახლების შემოწმენა">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.smart.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.keycode "VK_DELETE">
+<!ENTITY sanitize.key "Del">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY menu.control.playpause.spacebar "გამოტოვების ღილაკი">
+<!ENTITY tabs.closeTab "თაბის დახურვა">
+<!ENTITY window.browser.titledefault "">
+<!ENTITY window.browser.titlemodifier "ბრენდისმოკლედასახელება">
+<!ENTITY window.browser.titlemenuseparator "- ">
+<!ENTITY window.browser.titlepreface "">
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label "სათაო გვერდი">
+<!ENTITY prefs.homepage.url.label "ურლ">
+<!ENTITY prefs.homepage.url.accesskey "">
+<!-- Device entities -->
+<!ENTITY command.device.cancel "გაჩერება">
+<!ENTITY command.device.cancel.accesskey "S">
+<!ENTITY command.device.canceldevicecopy "კოპირების გაჩერება">
+<!ENTITY command.device.canceldevicecopy.accesskey "S">
+<!ENTITY command.device.canceldevicedelete "წაშლის გაჩერება">
+<!ENTITY command.device.canceldevicedelete.accesskey "S">
+<!ENTITY command.device.canceldevicesync "სინქრონიზების გაჩერება">
+<!ENTITY command.device.canceldevicesync.accesskey "S">
+<!ENTITY command.device.canceldeviceupdate "განახლების გაჩერება">
+<!ENTITY command.device.canceldeviceupdate.accesskey "S">
+<!ENTITY command.device.ejectdevice "გამოგდება">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "ფორმატი">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "იგნორირება">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "ინფორმაციის მიღება">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "გადარქმევა">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "სინქრონიზაცია">
+<!ENTITY command.device.devicesync.accesskey "ს">
+<!-- CD Device entities -->
+<!ENTITY command.device.rip "დისკიდან მუსიკის ამოჭრა">
+<!ENTITY command.device.rip.accesskey "R">
+<!ENTITY command.device.stoprip "ამოჭრის შეჩერება">
+<!ENTITY command.device.stoprip.accesskey "S">
+<!ENTITY command.device.lookup "დისკის იმფორმაციის მოძებნა">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "დისკის სმოგდება">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.info.model.label "მოდელი">
+<!ENTITY device.info.capacity.label "მოცულობა">
+<!ENTITY device.info.friendly_name.label "სახელი">
+<!ENTITY device.info.battery.label "ელემენტი">
+<!ENTITY device.progress.sync "სინქრონიზაცია">
+<!ENTITY device.capacity.music.label "მუსიკა">
+<!ENTITY device.capacity.video.label "ვიდეო">
+<!ENTITY device.capacity.image.label "ფოტოები">
+<!ENTITY device.capacity.other.label "სხვა">
+<!ENTITY device.capacity.free.label "თავისუფალი">
+<!ENTITY device.sync.auto_sync.label "სინქრონიზაცია">
+<!ENTITY device.sync.playlist.title "სათაური">
+<!ENTITY device.sync.images.foldername "ფოლდერის სახელი">
+<!ENTITY device.sync.images.filecount "სურათები">
+<!ENTITY device.settings.header.label "დაყენება">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.settings.music.transcoding.bitrate.label "Bitrate">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.management.tabs.music.label "მუსიკა">
+<!ENTITY device.management.tabs.video.label "ვიდეო">
+<!ENTITY device.management.tabs.image.label "სურათები">
+<!ENTITY device.management.tabs.tools.label "ხელსაწყოები">
+<!ENTITY device.management.tabs.settings.label "დაყენება">
+<!ENTITY device.tools.format_device.title "მოწყობილობის დაფორმატება">
+<!ENTITY device.tools.format_device.label "მოწყობილობის დაფორმატება">
+<!ENTITY device.tools.support.title "მხარდაჭერა">
+<!ENTITY device.dialog.setup.ignore.checkbox.label "ამ მოწყიბილობის იგნორირება">
+<!ENTITY openLinkCmdInDefaultBrowser.label "ლინკის გახსნა ვებ ბრაუზერით">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.label "გვერდის გახსნა ვებ ბრაუზერით">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.label "ჩარჩოს გახსნა ვებ ბრაუზერით">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.label "სურათის გახსნა ვებ ბრაუზერით">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "მონიშნული ტექსტის კოპირება">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "დაკვრა">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "ჩამოტვირთვა პლეილისტში">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;რეპერტუარები არ არის&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "ახალი რეპერტუარი">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.yes "კი">
+<!ENTITY feedback.dialog.no "არა">
+<!ENTITY first_run.eula.language.label "ენა">
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "დამატების გადმოწერა">
+<!-- Watch folder general description. -->
+<!ENTITY watch_folder.prefs.general_description "არ ჩართოთ Watch ფოლდერების იგივე დირექტორიაში, როგორც შენი მართვა მუსიკა ფოლდერი. ამის გაკეთება შექმნის ეგზ თქვენს ბიბლიოთეკაში.">
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title "იხილეთ პაპკა">
+<!ENTITY watch_folder.prefs.settings_group_caption "იხილეთ პაპკის პარამეტრები">
+<!ENTITY watch_folder.prefs.enable_checkbox "ავტომატურად თვალყური ადევნოს პაპკაში ცვლილებებს">
+<!ENTITY watch_folder.prefs.watch_folder_label "პაპკა">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title "&brandShortName; დაყენება">
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label "დეტალები">
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message "არაფერი უკრავს">
+<!ENTITY albumart.displaypane.not_selected_message "არაფერი არის არჩეული">
+<!ENTITY albumart.displaypane.drag_and_drop "გადმოაჩოჩეთ გარეკანი აქ">
+<!ENTITY albumart.displaypane.contextmenu.showselected "ჩვენება ამჯამად არჩეული">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "ჩვენება ამჯამად რასაც უკრავს">
+<!ENTITY albumart.displaypane.selected.menu.cut "ამოჭრა">
+<!ENTITY albumart.displaypane.selected.menu.copy "კოპირება">
+<!ENTITY albumart.displaypane.selected.menu.paste "ჩასმა">
+<!ENTITY albumart.displaypane.selected.menu.clear "გასუფთავება">
+<!ENTITY albumart.coverpreview.title "გარეკანი">
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "გარეკანი">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "შენახვის ნამუშევრები თითოეულ ფაილის&apos;s მეტადატის">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "ფაილის სახელის ძიება">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "ფაილის გავრცელების ძიება">
+<!ENTITY albumartpreferences.prefpane.priorities.up "ზემოთ">
+<!ENTITY albumartpreferences.prefpane.priorities.down "ქვევით">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "ხელახლა">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "აუტომატური-მისაღებად ალბომების ნამუშევრები">
+<!ENTITY albumartpreferences.prefpane.autofetch.tooltip "ავტომატურად მისაღებად album ნამუშევრები, როდესაც სიმღერა არის დაკრული ან შერჩეული, რაც დამოკიდებულია რეჟიმი ალბომების ნამუშევრები ჩვენება სარკმელზე. შესრულება შეიძლება დაეცა, როდესაც ეს ფუნქცია ჩართულია.">
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label "უკან">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "გაუქმება">
+<!ENTITY wizard.button.next.label "გაგრძელება">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "დამთავრება">
+<!ENTITY mediacore.error.continue "გაგრძელება">
+<!-- Mediacore Pref Pane entities (Playback Pref Pane) -->
+<!ENTITY playback.prefpane.label "უკან გადახვევა თავიდან დაკვრა">
+<!ENTITY playback.prefpane.audio_output.label "Audio Output">
+<!ENTITY playback.prefpane.audio_output.buffer "Output Buffer">
+<!ENTITY playback.prefpane.streaming.label "ქსელი და გადმოწერა">
+<!ENTITY playback.prefpane.streaming.buffer "გადმოწერის ბაფერი">
+<!ENTITY playback.prefpane.normalization.label "ნორმალაიზერი">
+<!ENTITY playback.prefpane.normalization.enable "გამოიყენე აუდიოს ნორმალაიზირებელი იმფორმაცი თუ არსებობს">
+<!ENTITY playback.prefpane.normalization.preferredGain.label "უპირატესობა მინიჭებილი იმფორმაციის მიღება">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "ალბომი">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "სიმღერა">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY playback.prefpane.ratings.label "რეიტინგის დამატებითი იმფორმაცია">
+<!ENTITY playback.prefpane.ratings.enablewriting "მაღაზიის რეიტინგი">
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "შემსრულებელი">
+<!ENTITY cdrip.lookup.info_not_found.album "ალბომი">
+<!ENTITY cdrip.lookup.info_not_found.title "დისკის იმფორმაცია ნაპოვნი არ არის">
+<!ENTITY cdrip.lookup.ordinal "#">
+<!ENTITY cdrip.lookup.track_name "სათაური">
+<!-- CD Rip Pref Pane entities -->
+<!ENTITY cdrip.prefpane.label "მუსიკის დისკიდან ამოჭრა">
+<!ENTITY cdrip.prefpane.format "ფორმატი">
+<!ENTITY cdrip.prefpane.quality "ხარისხი">
+<!ENTITY cdrip.prefpane.quality.units.kbps "კბწმ">
+<!ENTITY cdrip.prefpane.eject_after_rip "როდესაც მუსიკის დისკიდან ამოჭრა დამთავრდება დისკი ამოაგდე">
+<!ENTITY cdrip.prefpane.soundalert_after_rip "როდესაც CD Rip დასრულდა პიესის სისტემის alert sound">
+<!ENTITY cdrip.prefpane.providers.title "დისკის მიმწოდებლის მოძებნა">
+<!ENTITY cdrip.prefpane.quality_desc "უმაღლესი kbps ხარისხი პარამეტრით გამოიწვევს უმაღლესი ხარისხის აუდიო და უფრო დიდი ფაილის ზომა.">
+<!-- CD Rip Media View entities -->
+<!ENTITY cdrip.mediaview.cd_rip_settings_label "დისკიდან მუსიკის ამოჭრის დაყენებები">
+<!ENTITY cdrip.mediaview.format_label "ფორმატი:">
+<!ENTITY cdrip.mediaview.quality_label "ხარისხი:">
+<!ENTITY cdrip.mediaview.settings_button "პარამეტრები">
+<!ENTITY cdrip.mediaview.rip_cd_button "მუსიკის დისკიდან ამოჭრა">
+<!ENTITY cdrip.mediaview.stop_rip_button "შეწყვიტე ინფორმაციის ამოღება ">
+<!ENTITY cdrip.mediaview.view_tracks_button "ჩანაწერების ჩვენება">
+<!ENTITY cdrip.mediaview.eject_cd_button "CD-ს გამოგდება">
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.eject.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.rip.modifiers "accel shift">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!ENTITY cdrip.mediaview.stop_rip.modifiers "accel shift">
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "ვიდეო ფანჯრია">
+<!ENTITY videowindow.actualsize "ფაქტიური ზომა">
+<!ENTITY videowindow.fullscreen "მთლიანი ეკრანი">
+<!ENTITY videowindow.fullscreen.key "F">
+<!ENTITY videowindow.bringtofront.key "T">
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "ჩვენ მადლობას ვუხდით ჩვენს დამხმარეს, რომელთა მცდელობა რომ Songbird არის ესეთი. ეს ხალხი  დაეხმარა კოდის წერაში და დოკუმენტაციაში, და ტესტირებაში. ის შექმნილია და ინახება ამ პროდუქტი, მისი ასოცირებულ განვითარების კომპლექტი, ჩვენი ავაშენოთ ხელსაწყოები და ჩვენი ვებ საიტებზე. სახელები მოჰყვა IRC ნიკს, მოვიდა მიერ # songbird წლის irc.mozilla.org და გააკეთე კომენტარი!">
+<!ENTITY about.credits.footer.beforeLink "რათქმაუნდა ეს ყველაფერი შეუძლებელი იქნებოდა რთული სამსახურისა">
+<!ENTITY about.credits.footer.linkText "დამხმარეებისა">
+<!ENTITY about.credits.footer.afterLink "პროექტ Mozilla-სთვის">
+<!ENTITY about.credits.heading.translators "თარჯიმნები">
+<!ENTITY about.credits.heading.champs "ჩემპიონები">
+<!ENTITY about.credits.description.champs.link.pre "Songbird ლიგის არიან Die-Hard Songbird წევრებს და გულშემატკივარი, რომლებიც წავიდა ზევით და მის ფარგლებს გარეთ Call of Duty დახმარება, სხვა Songbird მომხმარებლებს ჩვენს">
+<!ENTITY about.credits.description.champs.link.text "Songbird დაკმაყოფილების ფორუმი.">
+<!ENTITY about.credits.description.champs.link.post "ისინი ყველაზე ნაყოფიერი ბიჭები ჩვენს ფორუმზე, და დაუღალავად მუშაობენ, რათა ყველა Songbird მომხმარებლის არის ბედნიერი Songbird მომხმარებელი.">
+<!ENTITY cdrip.lookup.multiple.title "რამდენიმე CD მოიძებნა">

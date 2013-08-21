@@ -1,0 +1,8 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Agordoj">
+<!ENTITY prefWindow.titleGNOME "Agordoj por &brandShortName;">
+<!ENTITY paneTabs.title "Folioj">
+<!ENTITY paneApplications.title "Programoj">
+<!ENTITY panePrivacy.title "Privateco">
+<!ENTITY paneSecurity.title "Sekureco">
+<!ENTITY paneAdvanced.title "Speciala">

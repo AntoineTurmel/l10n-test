@@ -1,0 +1,463 @@
+<!ENTITY songbird "&brandShortName;">
+<!ENTITY window.ok "சரி">
+<!ENTITY window.cancel "ரத்து">
+<!ENTITY window.apply "செயற்படுத்து ">
+<!ENTITY window.browse "உலாவு…">
+<!ENTITY window.save "சேமி">
+<!ENTITY window.yes "ஆம்">
+<!ENTITY window.no "இல்லை">
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit "வெளியேறு &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.preferences "விருப்பங்கள்">
+<!ENTITY menu.mac.preferences.key ",">
+<!ENTITY menu.mac.services "சேவைகள்">
+<!ENTITY menu.mac.hide "முறை &brandShortName;">
+<!ENTITY menu.mac.hide.key "H">
+<!ENTITY menu.mac.showall "எல்லாம் காட்டு">
+<!ENTITY menu.mac.minimize.key "M">
+<!ENTITY menu.file "கோப்பு">
+<!ENTITY menu.file.new "புதிய இசைப்பட்டியல்…">
+<!ENTITY menu.file.remote "புதிய சந்தா…">
+<!ENTITY menu.file.open "கோப்பைத் திற…">
+<!ENTITY menu.file.url "இடத்தை திற…">
+<!ENTITY menu.file.playlist "இசைப்பட்டியலை இறக்குமதி செய்…">
+<!ENTITY menu.file.library "நூலகத்தை இறக்குமதி செய்…">
+<!ENTITY menu.file.newtab "புதிய தத்தல்">
+<!ENTITY menu.file.closetab "தத்தலை மூடு">
+<!ENTITY menu.file.scan "ஊடகத்தை இறக்குமதி செய்…">
+<!ENTITY menu.file.exit "மூடு">
+<!ENTITY menu.edit "திருத்து">
+<!ENTITY menu.edit.undo "அ-செய்">
+<!ENTITY menu.edit.redo "ம-செய்">
+<!ENTITY menu.edit.cut "வெட்டு">
+<!ENTITY menu.edit.copy "நகலெடு">
+<!ENTITY menu.edit.paste "ஒட்டு">
+<!ENTITY menu.edit.delete "அழி">
+<!ENTITY menu.edit.selall "எல்லாம் தேர்ந்தெடு">
+<!ENTITY menu.edit.find "தேடு">
+<!ENTITY menu.edit.findagain "மறுபடியும் தேடு">
+<!-- Linux edit menu -->
+<!ENTITY menu.linux.preferences "விருப்பங்கள்">
+<!ENTITY menu.linux.preferences.accesskey "N">
+<!ENTITY menu.controls "கட்டுபாடுகள்">
+<!ENTITY menu.control.play "இசை">
+<!ENTITY menu.control.pause "இடைநிறுத்து">
+<!ENTITY menu.control.next "அடுத்த பாடல்">
+<!ENTITY menu.control.prev "முந்தைய பாடல்">
+<!ENTITY menu.control.shuf "குலுக்கு">
+<!ENTITY menu.control.repa "திரும்பி பாடு">
+<!ENTITY menu.control.rep1 "திரும்பி பாடு (ஒண்று)">
+<!ENTITY menu.control.repx "திரும்பி பாடாதே">
+<!ENTITY menu.control.jumpto "தாவு…">
+<!ENTITY menu.control.play.button "இசை">
+<!ENTITY menu.control.pause.button "இடைநிறுத்து">
+<!ENTITY menu.control.stop.button "நிறுத்து">
+<!ENTITY menu.tools "கருவிகள்">
+<!ENTITY menu.tools.getartwork "சுவரொட்டியை பெறு…">
+<!ENTITY menu.help "உதவி">
+<!ENTITY menu.help.topics "உதவி தலைப்புகள்">
+<!ENTITY menu.help.keyboard "விசைப்பலகை குறுக்கு வழிகள்">
+<!ENTITY menu.help.about "&brandShortName; பற்றி">
+<!ENTITY menu.equalizer "சமன்படுத்தி…">
+<!ENTITY menu.preferences "தெரிவுகள்">
+<!ENTITY menu.extensions "செருகல்கள்">
+<!ENTITY menu.clearprivatedata "அந்தரங்க தகவலை அழிக்கவும்.">
+<!ENTITY menu.downloadmgr "கோப்பு பதிவிறக்கங்கள்">
+<!ENTITY menu.controllerontop "மேலே காட்டு">
+<!ENTITY menu.controlleronbottom "கீழே காட்டு">
+<!ENTITY menu.fullscreen "முழுத் திரை ">
+<!ENTITY device.dialog.wait_for_completion.title "சாதனத்திற்காக காத்திருக்கிறது">
+<!ENTITY device.dialog.wait_for_completion.quit "வெளியேறு">
+<!ENTITY tooltip.minimize "சிறிதாக்கு">
+<!ENTITY tooltip.maximize "பெரிதாக்கு/மீட்டெடு">
+<!ENTITY tooltip.exit "மூடு">
+<!ENTITY tooltip.close "மூடு">
+<!ENTITY tooltip.hide "மறை">
+<!ENTITY tooltip.fullscreen "முழுத்திரை">
+<!ENTITY tooltip.control.back "முந்தைய">
+<!ENTITY tooltip.control.play "இசை">
+<!ENTITY tooltip.control.pause "இடைநிறுத்து">
+<!ENTITY tooltip.control.resume "தொடர்">
+<!ENTITY tooltip.control.stop "நிறுத்து">
+<!ENTITY tooltip.control.fwd "அடுத்த பாடல்">
+<!ENTITY tooltip.control.mute "சத்தம் போடாதே">
+<!ENTITY tooltip.control.volume "சத்தம்">
+<!ENTITY tooltip.control.shuffle "குலுக்கு">
+<!ENTITY tooltip.control.shuf_off "குலுக்காதே">
+<!ENTITY tooltip.search "தேடு">
+<!ENTITY tooltip.browser.stop "உலாவியை நிறுத்து">
+<!ENTITY tooltip.browser.home "முகப்பு">
+<!ENTITY tooltip.browser.refresh "மீளேற்று">
+<!ENTITY tooltip.servicepane.newnode "புதிய இசைப்பட்டியல்">
+<!ENTITY smart.window "சிற‌ப்பான‌ இசைப்ப‌ட்டிய‌ல்">
+<!ENTITY smart.match "பொருத்துக ">
+<!ENTITY smart.matchsingle "கீழ்வரும் நிபந்தனைகேற்ப பொருத்துக:">
+<!ENTITY smart.any "எதாவது">
+<!ENTITY smart.all "எல்லாம்">
+<!ENTITY smart.random "க‌லைத்து">
+<!ENTITY smart.album "திரைப்படம்">
+<!ENTITY smart.artist "கலைஞர்">
+<!ENTITY smart.genre "குழு வ‌கை">
+<!ENTITY smart.title "தலைப்பு">
+<!ENTITY smart.high_rating "த‌ர‌த்தில் உயர்ந்த‌வை">
+<!ENTITY smart.most_recent "அண்மையில் மிகவும் இயக்கப்பட்டவை ">
+<!ENTITY smart.most_often "அடிக்கடி இயக்கப்பட்டவை ">
+<!ENTITY smart.most_added "மிக அண்மையில் சேர்க்கப்பட்டவை ">
+<!ENTITY smart.minutes "நிமிடங்கள்">
+<!ENTITY smart.hours "மணிகள்">
+<!ENTITY smart.mb "MB">
+<!ENTITY smart.gb "GB">
+<!ENTITY smart.songs "உருப்படிகள்">
+<!ENTITY smart.selectedby "தெர்ந்த்தெடுத்த‌">
+<!ENTITY smart.autoupdate "தானாக‌ புதுப்பி">
+<!ENTITY smart.playlistcondition.library "நூலகம்">
+<!ENTITY smart.contenttypecondition.video "ஒளிக்காட்சி">
+<!ENTITY smart.contenttypecondition.audio "ஒலிப்பாட‌ல்">
+<!ENTITY open_url.title "இணையத்தளத்தை திற">
+<!ENTITY subscribe.title "சந்தாசேர் ">
+<!ENTITY subscribe.minutes "நிமிடம்(கள்)">
+<!ENTITY subscribe.hours "மணி(கள்)">
+<!ENTITY subscribe.days "நாள்(கள்)">
+<!ENTITY feed.subscribe.label "சந்தாசேர் ">
+<!ENTITY feed.subscribe.close "மூடு">
+<!ENTITY watchfolder.title "அடைவுகளை பார்">
+<!ENTITY watchfolder.folderlist "புதிய ஊடகங்களுக்கு இந்த அடைவுகளை பார்">
+<!ENTITY locale.language "மொழி">
+<!ENTITY menu.view "பார்வை">
+<!ENTITY about.version "பதிப்பு ">
+<!ENTITY about.buttons.credits "உபயம்">
+<!ENTITY equalizer.band0.label "32">
+<!ENTITY equalizer.band1.label "64">
+<!ENTITY equalizer.band2.label "125">
+<!ENTITY equalizer.band3.label "250">
+<!ENTITY equalizer.band4.label "500">
+<!ENTITY equalizer.band5.label "1K">
+<!ENTITY equalizer.band6.label "2K">
+<!ENTITY equalizer.band7.label "4K">
+<!ENTITY equalizer.band8.label "8K">
+<!ENTITY equalizer.band9.label "16K">
+<!ENTITY equalizer.preset.live "நேரடி">
+<!ENTITY equalizer.preset.party "கொண்டாட்டம் ">
+<!ENTITY equalizer.preset.large_hall "பெரிய அரங்கம் ">
+<!ENTITY equalizer.preset.dance "நடனம் ">
+<!ENTITY setupprogress.pleasewait "தயவுசெய்து காத்திருக்கவும்…">
+<!ENTITY setupprogress.cancel "ரத்து">
+<!ENTITY menu.file.accesskey "F">
+<!ENTITY menu.file.new.accesskey "N">
+<!ENTITY menu.file.remote.accesskey "R">
+<!ENTITY menu.file.open.accesskey "O">
+<!ENTITY menu.file.url.accesskey "A">
+<!ENTITY menu.file.playlist.accesskey "I">
+<!ENTITY menu.file.library.accesskey "P">
+<!ENTITY menu.file.newtab.accesskey "T">
+<!ENTITY menu.file.closetab.accesskey "C">
+<!ENTITY menu.file.scan.accesskey "M">
+<!ENTITY locale.language.accesskey "L">
+<!ENTITY menu.view.accesskey "V">
+<!ENTITY menu.preferences.accesskey "O">
+<!ENTITY menu.equalizer.accesskey "Q">
+<!ENTITY menu.extensions.accesskey "A">
+<!ENTITY menu.clearprivatedata.accesskey "P">
+<!ENTITY menu.file.exit.accesskey "X">
+<!ENTITY menu.downloadmgr.accesskey "D">
+<!ENTITY menu.edit.accesskey "E">
+<!ENTITY menu.edit.undo.accesskey "U">
+<!ENTITY menu.edit.redo.accesskey "R">
+<!ENTITY menu.edit.cut.accesskey "T">
+<!ENTITY menu.edit.copy.accesskey "C">
+<!ENTITY menu.edit.paste.accesskey "P">
+<!ENTITY menu.edit.delete.accesskey "D">
+<!ENTITY menu.edit.selall.accesskey "A">
+<!ENTITY menu.edit.find.accesskey "F">
+<!ENTITY menu.edit.findagain.accesskey "G">
+<!ENTITY menu.controls.accesskey "C">
+<!ENTITY menu.control.play.accesskey "P">
+<!ENTITY menu.control.pause.accesskey "P">
+<!ENTITY menu.control.next.accesskey "N">
+<!ENTITY menu.control.prev.accesskey "R">
+<!ENTITY menu.control.shuf.accesskey "S">
+<!ENTITY menu.control.repa.accesskey "A">
+<!ENTITY menu.control.rep1.accesskey "O">
+<!ENTITY menu.control.repx.accesskey "E">
+<!ENTITY menu.control.jumpto.accesskey "J">
+<!ENTITY menu.tools.accesskey "T">
+<!ENTITY menu.tools.getartwork.accesskey "G">
+<!ENTITY menu.tools.reveal "கோப்பை காட்டு">
+<!ENTITY menu.tools.reveal.accesskey "F">
+<!ENTITY menu.help.accesskey "H">
+<!ENTITY menu.help.help.accesskey "H">
+<!ENTITY menu.help.keyboard.accesskey "K">
+<!ENTITY menu.help.about.accesskey "A">
+<!ENTITY trackeditor.tab.summary.title "சுருக்கம்">
+<!ENTITY trackeditor.tab.edit.title "பண்புகள்">
+<!ENTITY trackeditor.tab.lyrics.title "பாடல் வரிகள்">
+<!ENTITY trackeditor.prev.button.label "&lt;">
+<!ENTITY trackeditor.next.button.label "&gt;">
+<!ENTITY trackeditor.prev.accesskey "P">
+<!ENTITY trackeditor.next.accesskey "N">
+<!ENTITY trackeditor.prev.key "P">
+<!ENTITY trackeditor.next.key "N">
+<!-- The following strings are from the old track editor, and can be remove one day -->
+<!ENTITY trackeditor.addtag.title "குறியை சேர்">
+<!ENTITY trackeditor.addtag.tag "சேர்:">
+<!ENTITY jumptofile.title "தாவு">
+<!ENTITY jumptofile.search "தேடு:">
+<!ENTITY hotkeys.action "செயல்">
+<!ENTITY hotkeys.add "சேர்">
+<!ENTITY hotkeys.set "நிறுவு">
+<!ENTITY hotkeys.remove "நீக்கு">
+<!ENTITY rapi.playback_control_disable.accesskey "p">
+<!ENTITY rapi.playback_read_disable.accesskey "m">
+<!ENTITY rapi.library_read_disable.accesskey "s">
+<!ENTITY rapi.library_write_disable.accesskey "a">
+<!ENTITY prefpane.addons.label "செருகல்கள்">
+<!ENTITY umsd.music.tab "இசை">
+<!ENTITY umsd.music.music_files_group "இசை கோப்புகள்">
+<!ENTITY umsd.video.tab "நிகழ்படம்">
+<!ENTITY umsd.video.video_files_group "ஒளிக்காட்சி கோப்புகள்">
+<!ENTITY device.error.dialog.link "தவறுகளின் விவரத்தை பார்">
+<!ENTITY restartbox.restartnow "இப்போது மறுத்தொடக்கம் செய்">
+<!ENTITY restartbox.restartlater "பின்னர் மறுத்தொடக்கம் செய்">
+<!ENTITY setupprogress.installingextensions "செருகல்களை நிறுவுகிறது">
+<!ENTITY jobprogress.details "விவரங்கள்">
+<!ENTITY menu.updateCmd.label "புதுப்பிக்கள் இருக்கின்றதா என பார்க்கவும்…">
+<!ENTITY menu.updateCmd.accessKey "o">
+<!ENTITY menu.file.new.key "N">
+<!ENTITY menu.file.open.key "O">
+<!ENTITY menu.file.url.key "U">
+<!ENTITY menu.file.newtab.key "T">
+<!ENTITY menu.file.closetab.key "W">
+<!ENTITY menu.file.mini.key "M">
+<!ENTITY menu.file.filescan.key "O">
+<!ENTITY menu.edit.undo.key "Z">
+<!ENTITY menu.edit.redo.key "Y">
+<!ENTITY menu.edit.cut.key "X">
+<!ENTITY menu.edit.copy.key "C">
+<!ENTITY menu.edit.paste.key "V">
+<!ENTITY menu.edit.selall.key "A">
+<!ENTITY menu.edit.find.key "F">
+<!ENTITY menu.edit.findagain.key "G">
+<!ENTITY bookmarkPage.key "D">
+<!ENTITY jumpto.key "J">
+<!ENTITY equalizer.key "E">
+<!ENTITY switchfeathers.key "M">
+<!ENTITY search.key "F">
+<!ENTITY searchFocus.key "K">
+<!ENTITY locationbar.key "L">
+<!ENTITY locationbar.key2 "D">
+<!ENTITY currentTrackCmd.commandKey "L">
+<!ENTITY mediapage.next.key "S">
+<!ENTITY trackeditor.key2 "I">
+<!ENTITY getartwork.key "G">
+<!ENTITY sanitize.key "நீக்கு">
+<!ENTITY menu.viewpagesource.key "U">
+<!ENTITY downloadmgr.key "J">
+<!ENTITY tabs.closeTab "தத்தங்களை மூடு">
+<!ENTITY tabs.listAllTabs "எல்லா தத்தங்களையும் பட்டியலிடு">
+<!ENTITY window.browser.titlemodifier "&brandShortName;">
+<!ENTITY window.browser.titlemenuseparator "-">
+<!-- Preferences dialogs (strings that would have been in browser/) -->
+<!ENTITY prefs.homepage.label "முகப்பு பக்கம்">
+<!ENTITY prefs.homepage.url.label "இணையத்தள முகவரி:">
+<!ENTITY prefs.security.addons.label "செருகல் நிறுவல்">
+<!-- Device entities -->
+<!ENTITY command.device.cancel "ரத்து">
+<!ENTITY command.device.cancel.accesskey "C">
+<!ENTITY command.device.canceldevicecopy "நகலெடுத்தலை ரத்து செய்">
+<!ENTITY command.device.canceldevicecopy.accesskey "C">
+<!ENTITY command.device.canceldevicedelete "அழித்தலை ரத்து செய்">
+<!ENTITY command.device.canceldevicedelete.accesskey "C">
+<!ENTITY command.device.canceldevicesync "ஒத்திசைத்தலை ரத்து செய்">
+<!ENTITY command.device.canceldevicesync.accesskey "C">
+<!ENTITY command.device.canceldeviceupdate "புதுப்பித்தலை ரத்து செய்">
+<!ENTITY command.device.canceldeviceupdate.accesskey "C">
+<!ENTITY command.device.ejectdevice "வெளியேற்று">
+<!ENTITY command.device.ejectdevice.accesskey "E">
+<!ENTITY command.device.formatdevice "வ‌டிவ‌மைத்த‌ல்">
+<!ENTITY command.device.formatdevice.accesskey "F">
+<!ENTITY command.device.ignoredevice "புறக்கணி ">
+<!ENTITY command.device.ignoredevice.accesskey "I">
+<!ENTITY command.device.getdeviceinfo "தகவலை பெறு">
+<!ENTITY command.device.getdeviceinfo.accesskey "I">
+<!ENTITY command.device.renamedevice "மறுபெயரிடு">
+<!ENTITY command.device.renamedevice.accesskey "R">
+<!ENTITY command.device.devicesync "ஒத்திசை">
+<!ENTITY command.device.devicesync.accesskey "S">
+<!ENTITY command.device.lookup "CD தகவலை பார்">
+<!ENTITY command.device.lookup.accesskey "L">
+<!ENTITY command.device.ejectcddevice "CDயை வெளியேற்று">
+<!ENTITY command.device.ejectcddevice.accesskey "E">
+<!ENTITY device.firmware.wizard.title "புதிய‌ மென்பொருளை இற‌க்க‌ம் செய்">
+<!ENTITY device.firmware.wizard.check.page.title "புதிய‌ மென்பொருள் உள்ள‌தா">
+<!ENTITY device.firmware.wizard.check.progress.title "புதிய‌ மென்பொருள் உள்ள‌தா..">
+<!ENTITY device.firmware.wizard.check.release_notes.label "வெளியீட்டுக் குறிப்பு">
+<!ENTITY device.firmware.wizard.download.title "புதிய‌ மென்பொருளை இற‌க்க‌ம் செய்கிற‌து">
+<!ENTITY device.firmware.wizard.download.error.description "மென்பொருளை நிறுவ முடியவில்லை. இணைய இணைப்பை சரிபார்க்க.">
+<!ENTITY device.info.icon.device "பொதுவான சாதனத்தின் சின்னம்">
+<!ENTITY device.info.icon.readonly "படிக்க மட்டும் சின்னம்">
+<!ENTITY device.info.model.label "வடிவமைப்பு எண்">
+<!ENTITY device.info.capacity.label "கொள்ளளவு">
+<!ENTITY device.info.product.label "பொருள்">
+<!ENTITY device.info.friendly_name.label "பெயர்">
+<!ENTITY device.info.serial_number.label "தொடர் எண்">
+<!ENTITY device.info.vendor.label "உற்பத்தியாளர்">
+<!ENTITY device.info.playback_formats.label "கோப்பு வடிவம் ">
+<!ENTITY device.info.battery.label "மின்கலம்">
+<!ENTITY device.info.firmware_version.label "மென்பொருள் பதிவு எண்">
+<!ENTITY device.progress.sync "ஒத்திசை">
+<!ENTITY device.capacity.music.label "இசை">
+<!ENTITY device.capacity.video.label "நிகழ்படம்">
+<!ENTITY device.capacity.image.label "புகைப்படங்கள்">
+<!ENTITY device.capacity.other.label "மற்றவை">
+<!ENTITY device.capacity.free.label "காலி">
+<!ENTITY device.sync.header.label "ஒத்திசை அமைப்புகள்">
+<!ENTITY device.sync.auto_sync.label "ஒத்திசை">
+<!ENTITY device.sync.sync_all.label "எல்ல இசைகள், நிகழ்படங்கள், இசைப்படியல்கள்">
+<!ENTITY device.sync.playlist.title "தலைப்பு ">
+<!ENTITY device.sync.playlist.video.duration "நிகழ்ப்பட காலஅளவு ">
+<!ENTITY device.settings.header.label "அமைப்புகள்">
+<!ENTITY device.settings.general.label "பொதுவான">
+<!ENTITY device.settings.auto_firmware_check.checkbox.label "தானாக புதிய மென்பொருள் உள்ளதா எனப்பார்">
+<!ENTITY device.settings.music.transcoding.label "இசைப் பரிமாற்றம் ">
+<!ENTITY device.settings.disk.label "வட்டு நிர்வாகம்">
+<!ENTITY device.settings.disk.management.label "கோப்பு அமைப்பை தேர்ந்தெடு ">
+<!ENTITY device.settings.disk.management.filename "பாட்டு கோப்புகள்">
+<!ENTITY device.settings.disk.100percent.label "100&#37;">
+<!ENTITY device.settings.disk.0percent.label "0&#37;">
+<!ENTITY device.settings.music.transcoding.mode.auto.label "தானாக பரிமாற்றம் செய்ய கட்டளை">
+<!ENTITY device.settings.music.transcoding.bitrate.label "பிட் விகிதம்">
+<!ENTITY device.settings.music.transcoding.bitrate.units "kbps">
+<!ENTITY device.management.tabs.music.label "இசை">
+<!ENTITY device.management.tabs.video.label "நிகழ்ப்படம் ">
+<!ENTITY device.management.tabs.image.label "புகைப்படம்">
+<!ENTITY device.management.tabs.tools.label "கருவிகள்">
+<!ENTITY device.management.tabs.settings.label "அமைப்புகள்">
+<!ENTITY device.tools.format_volume.button.label "வடிவம் ">
+<!ENTITY device.tools.support.title "ஆதரவு">
+<!ENTITY device.dialog.setup.title "சாதன அமைப்பு">
+<!ENTITY openLinkCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openPageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openFrameCmdInDefaultBrowser.accesskey "o">
+<!ENTITY openImageCmdInDefaultBrowser.accesskey "o">
+<!ENTITY copySelectionCmd.label "தேர்ந்தெடுத்த உரையை நகலெடு">
+<!ENTITY copySelectionCmd.accesskey "c">
+<!ENTITY playMediaCmd.label "இசை">
+<!ENTITY playMediaCmd.accesskey "p">
+<!ENTITY downloadMediaCmd.label "நூலகத்திற்கு பதிவிறக்கு">
+<!ENTITY downloadMediaCmd.accesskey "d">
+<!ENTITY addMediaToPlaylistCmd.label "இசைப்பட்டியலிற்கு  பதிவிறக்கு">
+<!ENTITY addMediaToPlaylistCmd.accesskey "a">
+<!ENTITY addMediaToPlaylistCmd.noPlaylist.label "&lt;இசைப்பட்டியல்கள் இல்லை&gt;">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.label "புதிய இசைப்பட்டியல்">
+<!ENTITY addMediaToPlaylistCmd.newPlaylist.accesskey "n">
+<!ENTITY subscribeMediaPageCmd.accesskey "u">
+<!ENTITY subscribeMediaFrameCmd.accesskey "u">
+<!ENTITY feedback.dialog.title "&brandShortName; மேம்பட உதவி செய்யுங்கள்">
+<!ENTITY feedback.dialog.yes "ஆம்">
+<!ENTITY feedback.dialog.no "இல்லை">
+<!ENTITY feedback.dialog.sentence3 "இப்படிக்கு,">
+<!ENTITY feedback.dialog.sentence4 "&brandShortName; குழு">
+<!-- title for the blank firstrun mediapage -->
+<!ENTITY mediapages.firstrun.title "&brandShortName;ற்கு வரவேற்கிறோம்">
+<!-- First-run wizard entities. -->
+<!ENTITY first_run.title "&brandShortName; நிறுவல்">
+<!-- First-run add-ons entities. -->
+<!ENTITY first_run.add_ons.header.label "பரிந்துரைக்கப்பட்ட செருகல்கள்">
+<!ENTITY first_run.add_ons.loading.label "பரிந்துரைக்கப்பட்ட செருகல்களை பெறுகிறது">
+<!ENTITY first_run.add_ons.load_failed.label "பரிந்துரைக்கப்பட்ட செருகல்களை பெற முடியவில்லை">
+<!ENTITY first_run.connection.settings.button "தொடர்பு அமைப்புகள்…">
+<!-- First-run eula entities. -->
+<!ENTITY first_run.eula.header.label "உரிம ஒப்பந்தம்">
+<!ENTITY first_run.eula.language.label "மொழி">
+<!-- First-run import media entities. -->
+<!ENTITY first_run.import_media.header.label "ஊடகத்தை இறக்குமதி செய்">
+<!ENTITY first_run.import_media.radio.dont_import.label "ஊடகத்தை இறக்குமதி செய்யாதே">
+<!-- First-run install add-ons entities. -->
+<!ENTITY first_run.install_add_ons.title "செருகல்களை பதிவிறக்குகிறது">
+<!-- First-run welcome entities. -->
+<!ENTITY first_run.welcome.header.label "&brandShortName;ற்கு வரவேற்கிறோம்">
+<!-- Import library dialog and preference entities. -->
+<!ENTITY import_library.dialog.title "நூலகத்தை இறக்குமதி செய்">
+<!ENTITY import_library.library_file_label "நூலக கோப்பு:">
+<!ENTITY import_library.prefs.options_group_caption "இறக்குமதி தெரிவுகள்">
+<!ENTITY import_library.import_command "நூலகத்தை இறக்குமதி செய்">
+<!ENTITY import_playlists_itunes_checkbox "இசைப்பட்டியல்களை இறக்குமதி செய்">
+<!-- Import library dirty playlist dialog entities. -->
+<!ENTITY import_library.dirty_playlist_dialog.title "இசை பட்டியல் மாற்றப்பட்டது">
+<!-- Watch folder preference entities. -->
+<!ENTITY watch_folder.prefs.title "அடைவுகளை பார்">
+<!ENTITY watch_folder.prefs.settings_group_caption "அடைவை பார் அமைப்பு">
+<!ENTITY watch_folder.prefs.watch_folder_label "அடைவு:">
+<!-- Advanced preference pane update tab entities. -->
+<!ENTITY enable_recommended_addons_update.label "பரிந்துரைக்கப்பட்ட செருகல்கள்">
+<!ENTITY enable_recommended_addons_update.accesskey "r">
+<!-- Recommended add-ons update dialog entities. -->
+<!ENTITY recommended_add_ons.title "&brandShortName; நிறுவல்">
+<!-- Add-on bundle installer properties. -->
+<!ENTITY add_on_bundle_installer.error_box.label "விவரங்கள்">
+<!-- Album Art display pane properties. -->
+<!ENTITY albumart.displaypane.not_playing_message "எதையும் இசைக்கவில்லை">
+<!ENTITY albumart.displaypane.not_selected_message "எதையும் தேர்ந்தெடுக்கவில்லை">
+<!ENTITY albumart.displaypane.drag_and_drop "சுவரொட்டியை இங்கு இழு">
+<!ENTITY albumart.displaypane.contextmenu.showselected "த‌ற்போது தேர்ந்தெடுத்த‌தைக் காட்டு">
+<!ENTITY albumart.displaypane.contextmenu.showplaying "த‌ற்போது இசைப்ப‌தை காட்டு">
+<!ENTITY albumart.displaypane.selected.menu.cut "வெட்டு">
+<!ENTITY albumart.displaypane.selected.menu.copy "நகலெடு">
+<!ENTITY albumart.displaypane.selected.menu.paste "ஒட்டு">
+<!ENTITY albumart.displaypane.selected.menu.clear "துடை">
+<!ENTITY albumart.coverpreview.title "சுவரொட்டி">
+<!-- Album Art preferences pane entities. -->
+<!ENTITY albumartpreferences.prefpane.label "திரைப்பட சுவரொட்டி">
+<!ENTITY albumartpreferences.prefpane.enablewrite.label "திரைப்பட சுவரொட்டியை கொப்பையில் சேர்">
+<!ENTITY albumartpreferences.prefpane.search_file_names.label "கோப்புகளை தேடு:">
+<!ENTITY albumartpreferences.prefpane.search_file_ext.label "கோப்புக்கான‌ குறியீடுக‌ளைத் தேடு">
+<!ENTITY albumartpreferences.prefpane.priorities.label "திரைப்பட சுவரொட்டி வ‌ரிசை">
+<!ENTITY albumartpreferences.prefpane.fetcherlist.tooltip "">
+<!ENTITY albumartpreferences.prefpane.priorities.up "மேல் ">
+<!ENTITY albumartpreferences.prefpane.priorities.down "கீழ் ">
+<!ENTITY albumartpreferences.prefpane.priorities.reset "மீளமை ">
+<!ENTITY albumartpreferences.prefpane.autofetch.label "தானாக‌ திரைப்பட சுவரொட்டியை கொண்டுவர‌">
+<!-- Wizard entities. -->
+<!ENTITY wizard.button.back.label "பின் செல்">
+<!ENTITY wizard.button.back.accesskey "B">
+<!ENTITY wizard.button.cancel.label "ரத்து">
+<!ENTITY wizard.button.next.label "தொடர்">
+<!ENTITY wizard.button.next.accesskey "C">
+<!ENTITY wizard.button.finish.label "முடி">
+<!ENTITY mediacore.error.continue "தொடர்">
+<!ENTITY playback.prefpane.normalization.preferredGain.album "திரைப்படம்">
+<!ENTITY playback.prefpane.normalization.preferredGain.track "பாடல்">
+<!ENTITY playback.prefpane.units.kilobytes "kB">
+<!ENTITY playback.prefpane.units.ms "ms">
+<!ENTITY fetch_album_art.dialog.title "சுவரொட்டியை பெறு">
+<!-- CD Metadata/info lookup dialogs -->
+<!ENTITY cdrip.lookup.info_not_found.artist "கலைஞர்கள்">
+<!ENTITY cdrip.lookup.info_not_found.album "திரைப்படம்">
+<!ENTITY cdrip.lookup.info_not_found.title "குறுந்தகடு விவரம் கிடைக்கவில்லை">
+<!ENTITY cdrip.lookup.track_name "தலைப்பு">
+<!ENTITY cdrip.prefpane.format "வடிவம் ">
+<!ENTITY cdrip.prefpane.quality "தரம்">
+<!ENTITY cdrip.prefpane.quality.units.kbps "kbps">
+<!ENTITY cdrip.mediaview.format_label "வ‌டிவ‌மைத்த‌ல்:">
+<!ENTITY cdrip.mediaview.quality_label "தரம்:">
+<!ENTITY cdrip.mediaview.settings_button "அமைப்புகள்">
+<!ENTITY cdrip.mediaview.view_tracks_button "பாடல்களை பார்">
+<!ENTITY cdrip.mediaview.eject_cd_button "CDயை வெளியேற்று">
+<!-- CD Rip Media View keys -->
+<!ENTITY cdrip.mediaview.eject.key "E">
+<!ENTITY cdrip.mediaview.rip.key "C">
+<!ENTITY cdrip.mediaview.stop_rip.key "X">
+<!-- Video Window entities -->
+<!ENTITY videowindow.title "வீடியோ சாளரம்">
+<!ENTITY videowindow.actualsize "உண்மையான அளவு ">
+<!ENTITY videowindow.fullscreen "முழுத்திரையில் ">
+<!-- about:credits entities. -->
+<!ENTITY about.credits.intro "">
+<!ENTITY about.credits.footer.beforeLink "இவ்வற்றில் எதுவுமே முடிந்திருக்காது, கடின உழைப்பினை மேற்கொண்ட">
+<!ENTITY about.credits.footer.linkText "பங்களிப்பாளர்களின்றி">
+<!ENTITY about.credits.footer.afterLink "மொசிலா திட்டபணிக்கு">
+<!ENTITY about.credits.heading.translators "மொழிபெயர்பாளர்கள்">
+<!ENTITY about.credits.heading.champs "சாம்பியன்கள்">
+<!ENTITY cdrip.lookup.multiple.description "இதிலிருந்து ஒன்றை தேர்ந்தெடுக்கவும் அல்லது உங்கள் தகவல்களை சேர்க்கவும்.">
+<!ENTITY cdinfo.other.label "உங்கள் பாடகர் மற்றும் பாடல்த்தொகுப்பின் தகவல்களை அளிக்கவும்.">

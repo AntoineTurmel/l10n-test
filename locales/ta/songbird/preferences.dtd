@@ -1,0 +1,3 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "வாய்ப்புக‌ள்">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; விருப்பங்கள்">

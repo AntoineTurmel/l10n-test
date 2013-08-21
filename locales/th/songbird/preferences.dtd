@@ -1,0 +1,9 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "ตัวเลือก">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; การปรับแต่งรายละเอียด">
+<!ENTITY paneTabs.title "แท็บ">
+<!ENTITY paneContent.title "เนื้อหา">
+<!ENTITY paneApplications.title "โปรแกรมประยุกต์">
+<!ENTITY panePrivacy.title "ความเป็นส่วนตัว">
+<!ENTITY paneSecurity.title "ความปลอดภัย">
+<!ENTITY paneAdvanced.title "ขั้นสูง">

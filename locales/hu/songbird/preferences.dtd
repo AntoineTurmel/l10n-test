@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Beállítások">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; beállítások">
+<!ENTITY paneGeneral.title "Főlap">
+<!ENTITY paneTabs.title "Lapok">
+<!ENTITY paneContent.title "Tartalom">
+<!ENTITY paneApplications.title "Alkalmazások">
+<!ENTITY panePrivacy.title "Adatvédelem">
+<!ENTITY paneSecurity.title "Biztonság">
+<!ENTITY paneAdvanced.title "Speciális beállítások">

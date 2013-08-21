@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Pengaturan">
+<!ENTITY prefWindow.titleGNOME "Pengaturan &brandShortName;">
+<!ENTITY paneGeneral.title "Utama">
+<!ENTITY paneTabs.title "Tab">
+<!ENTITY paneContent.title "Isi">
+<!ENTITY paneApplications.title "Aplikasi">
+<!ENTITY panePrivacy.title "Privasi">
+<!ENTITY paneSecurity.title "Keamanan">
+<!ENTITY paneAdvanced.title "Canggih">

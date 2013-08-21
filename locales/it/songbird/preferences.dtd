@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Opzioni">
+<!ENTITY prefWindow.titleGNOME "Preferenze di &brandShortName;">
+<!ENTITY paneGeneral.title "Principale">
+<!ENTITY paneTabs.title "Tabs">
+<!ENTITY paneContent.title "Contenuto">
+<!ENTITY paneApplications.title "Applicazioni">
+<!ENTITY panePrivacy.title "Privacy">
+<!ENTITY paneSecurity.title "Sicurezza">
+<!ENTITY paneAdvanced.title "Avanzate">

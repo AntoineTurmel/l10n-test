@@ -1,0 +1,7 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Оставки">
+<!ENTITY paneTabs.title "Јазичиња">
+<!ENTITY paneContent.title "Содржина">
+<!ENTITY paneApplications.title "Апликации">
+<!ENTITY paneSecurity.title "Безбедност.">
+<!ENTITY paneAdvanced.title "Напредени">

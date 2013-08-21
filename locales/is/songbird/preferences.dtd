@@ -1,0 +1,10 @@
+<!-- override chrome://browser/locale/preferences/preferences.dtd -->
+<!ENTITY prefWindow.titleWin "Stillingar">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; stillingar">
+<!ENTITY paneGeneral.title "Aðal">
+<!ENTITY paneTabs.title "Flipar">
+<!ENTITY paneContent.title "Efni">
+<!ENTITY paneApplications.title "Forrit">
+<!ENTITY panePrivacy.title "Persónuvernd">
+<!ENTITY paneSecurity.title "Öryggi">
+<!ENTITY paneAdvanced.title "Ítarlegt">
