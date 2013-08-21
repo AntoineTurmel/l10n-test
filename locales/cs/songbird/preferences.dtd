@@ -1,9 +1,0 @@
-<!-- override chrome://browser/locale/preferences/preferences.dtd -->
-<!ENTITY prefWindow.titleWin "Možnosti">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; - Předvolby">
-<!ENTITY paneTabs.title "Panely">
-<!ENTITY paneContent.title "Obsah">
-<!ENTITY paneApplications.title "Aplikace">
-<!ENTITY panePrivacy.title "Soukromí">
-<!ENTITY paneSecurity.title "Zabezpečení">
-<!ENTITY paneAdvanced.title "Pokročilé">

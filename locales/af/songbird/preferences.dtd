@@ -1,9 +1,0 @@
-<!-- override chrome://browser/locale/preferences/preferences.dtd -->
-<!ENTITY prefWindow.titleWin "Opsies">
-<!ENTITY prefWindow.titleGNOME "">
-<!ENTITY paneGeneral.title "Hoof">
-<!ENTITY paneContent.title "Inhoud">
-<!ENTITY paneApplications.title "">
-<!ENTITY panePrivacy.title "Privaatheid">
-<!ENTITY paneSecurity.title "Sekuriteit">
-<!ENTITY paneAdvanced.title "Gevorderd">
