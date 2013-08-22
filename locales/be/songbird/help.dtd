@@ -1,6 +1,7 @@
 <!-- localizations for in-app help -->
 <!ENTITY help.keyboard.title "Клавіятурныя скарачэнні &brandShortName;">
 <!ENTITY help.keyboard.subtitle "Клавіятурныя скарачэнні">
+<!ENTITY help.keyboard.description "Keyboard shortcuts can make tasks in &brandShortName; much easier. Below is a list of available commands followed by their appropriate shortcuts.">
 <!ENTITY help.platform.windows "Windows">
 <!ENTITY help.platform.macosx "Mac">
 <!ENTITY help.platform.linux "Linux">
