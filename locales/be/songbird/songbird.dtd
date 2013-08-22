@@ -1,6 +1,7 @@
 <!ENTITY songbird "&brandShortName;">
 <!ENTITY window.ok "Так">
 <!ENTITY window.cancel "Скасаваць">
+<!ENTITY window.apply "Apply">
 <!ENTITY window.browse "Аглядаць…">
 <!ENTITY window.save "Захаваць">
 <!ENTITY window.yes "Так">
