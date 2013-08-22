@@ -1,6 +1,6 @@
 <!ENTITY songbird "&brandShortName;">
 <!ENTITY window.ok "OK">
-<!ENTITY window.cancel "Annuler">
+<!ENTITY window.cancel "Cancel">
 <!ENTITY window.apply "Appliquer">
 <!ENTITY window.browse "Parcourir…">
 <!ENTITY window.save "Enregistrer">
