@@ -7,6 +7,7 @@
 <!ENTITY help.keyboard.heading.command "Opdrag">
 <!ENTITY help.keyboard.heading.shortcut "Kortpad">
 <!ENTITY help.keyboard.section.playback "Speelkontroles">
+<!ENTITY help.keyboard.section.library "Library and Playlists">
 <!ENTITY help.keyboard.section.browser "Blaaier">
 <!ENTITY help.keyboard.section.search "Soek">
 <!ENTITY help.keyboard.section.video "Video">
