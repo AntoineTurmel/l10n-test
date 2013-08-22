@@ -6,6 +6,10 @@
 <!ENTITY window.save "Stoor">
 <!ENTITY window.yes "Ja">
 <!ENTITY window.no "Nee">
+<!-- Mac system menu -->
+<!ENTITY menu.mac.exit "Quit &brandShortName;">
+<!ENTITY menu.mac.exit.key "Q">
+<!ENTITY menu.mac.exit.modifiers "accel">
 <!ENTITY menu.mac.services "Services">
 <!ENTITY menu.mac.hide "Versteek &brandShortName;">
 <!ENTITY menu.file "Lêer">
