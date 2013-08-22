@@ -1,5 +1,5 @@
 <!-- localizations for in-app help -->
-<!ENTITY help.keyboard.title "&brandShortName; Raccourcis Clavier">
+<!ENTITY help.keyboard.title "&brandShortName; Raccourcis KEYS">
 <!ENTITY help.keyboard.subtitle "Raccourcis Clavier">
 <!ENTITY help.keyboard.description "Lorsque vous utilisez &brandShortName;, vous pouvez vous servir des touches de votre clavier pour effectuer des tâches rapidement. Les raccourcis des commandes les plus fréquemment utilisées sont indiqués à droite de chaque commande.">
 <!ENTITY help.platform.windows "Windows">
