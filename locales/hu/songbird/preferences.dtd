@@ -1,6 +1,7 @@
 <!-- override chrome://browser/locale/preferences/preferences.dtd -->
 <!ENTITY prefWindow.titleWin "Beállítások">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; beállítások">
+<!ENTITY prefWinMinSize.styleMac "width: 63em; min-height: 43em; /* Please do not translate, but adjust sizes as appropriate for your locale */">
 <!ENTITY paneGeneral.title "Főlap">
 <!ENTITY paneTabs.title "Lapok">
 <!ENTITY paneContent.title "Tartalom">
