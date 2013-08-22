@@ -190,6 +190,7 @@
 <!ENTITY equalizer.band8.label "8K">
 <!ENTITY equalizer.band9.label "16K">
 <!ENTITY equalizer.preset.custom "自定义">
+<!ENTITY equalizer.preset.flat "Flat">
 <!ENTITY equalizer.preset.rock "Rock(摇滚)">
 <!ENTITY equalizer.preset.soft_rock "轻柔摇滚">
 <!ENTITY equalizer.preset.techno "电子乐">
