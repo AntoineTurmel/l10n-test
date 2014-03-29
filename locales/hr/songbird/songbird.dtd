@@ -736,3 +736,5 @@
 <!ENTITY mediamanagement.removed.dialog.title "Napomena upravljanja medijskim datotekama">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Upravljanje medijskim datotekama je uklonjeno iz &brandShortName; u inačici 1.10.">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "Ova promjena je dio napora da se pojednostavi naš proizvod i osigura lakše korištenje.">
+<!ENTITY testing.one.two "Zdravo, ovo je novi string samo u svrhu testiranja">
+<!ENTITY testing.another "Zdravo ponovno, ovo sam ja">
