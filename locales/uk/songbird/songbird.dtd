@@ -736,3 +736,5 @@
 <!ENTITY mediamanagement.removed.dialog.title "Режим керування був вилучений">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Режим керування був вилучений в Sonbird версії 1.10.">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "Більше подробиць можна знайти">
+<!ENTITY testing.one.two "Привіт, новий рядок для тестування">
+<!ENTITY testing.another "Привіт знову, це я">
