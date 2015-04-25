@@ -736,3 +736,4 @@
 <!ENTITY mediamanagement.removed.dialog.title "Avertissement de gestion des médias">
 <!ENTITY mediamanagement.removed.dialog.text.line1 "Le gestionnaire de médias a été désactivé depuis &brandShortName; 1.10.">
 <!ENTITY mediamanagement.removed.dialog.text.line2 "Cette modification fait partie de nos efforts pour simplifier notre produit et fournir une expérience utilisateur plus ergonomique">
+<!ENTITY testing.another "Bonjour c'est encore moi.">
